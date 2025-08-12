@@ -1,4 +1,4 @@
-# Plataforma Dondza 🇲🇿🇵🇹
+# Plataforma Dondza 🇲🇿
 
 [![Licença: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT) <!-- Opcional: Adicione mais badges (estado do build, etc.) depois -->
 
